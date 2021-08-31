@@ -1,0 +1,28 @@
+.main-header {
+  font-family: 'Dancing Script', cursive;
+  color: #ff000078;
+  text-align: center;
+  text-transform: capitalize;
+}
+.art-header {
+  font-family: 'STIX Two Math', serif;
+  color: yellowgreen;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.art-header + p {
+  font-size: 32px;
+  font-weight: 700;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.3em;
+  text-align: justify;
+  
+}
+.page-link {
+   text-decoration: line-through 3px double pink ;
+}
+.aline-center{
+  text-align: center;
+  font-size: 10px;
+}
